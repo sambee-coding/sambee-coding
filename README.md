@@ -36,7 +36,11 @@ Building calm, creative, and useful digital experiences ✨
 - 📌 Study Session Manager
 - 📌 The best vocab 
 - 📌 SmartHire-AI(my first ever hackathon that enter in top 10)
+- 📌 Half-Life-Interactive-Platform 
+- 📌 CreatorPath
 - 📌 UI/UX Design Practice Projects  
+- 📌 So many project ideas that will be realesed coming soon
+
 
 ---
 
