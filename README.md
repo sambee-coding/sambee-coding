@@ -15,7 +15,8 @@ Building calm, creative, and useful digital experiences ✨
 - 💻 Frontend Developer (React + JavaScript)
 - 🎨 UI/UX Design learner
 - 🚀 Passionate about building real-world digital products
-- 🌱 Currently growing my freelance + content creation journey
+- 🌱 Currently growing my freelance + content creation journey and learning back-end to be software engineer
+-inspired by @gazijarin who works  Currently at Google
 
 ---
 
