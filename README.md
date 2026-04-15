@@ -10,8 +10,8 @@ Building calm, creative, and useful digital experiences ✨
 ---
 
 ## 🌼 About Me
-
-- 🐝 I’m Samrawit, building under the brand **Sambee**
+-🎓I’m Samrawit,Computer Science student at Bahir Dar University
+-  building under the brand **Sambee**
 - 💻 Frontend Developer (React + JavaScript)
 - 🎨 UI/UX Design learner
 - 🚀 Passionate about building real-world digital products
