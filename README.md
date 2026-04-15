@@ -74,10 +74,12 @@ Building calm, creative, and useful digital experiences ✨
 ## 🐝 Current Focus
 
 - 🌼 Building **Sambee Digital Brand**
+- 🚀 Building AI powered projects and leveraging AI
 - 💻 Improving JavaScript + React skills
 - 🎨 Learning UI/UX design systems
 - 📱 Creating content for TikTok & Instagram
 - 💼 Preparing for freelancing (Upwork/Fiverr)
+
 
 ---
 
