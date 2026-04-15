@@ -92,10 +92,11 @@ Building calm, creative, and useful digital experiences ✨
 ## 📬 Connect With Me
 
 <p align="left">
-
+- LinkedIn: https://www.linkedin.com/in/samrawit-bitew-4896b7364/
 - 📧 Email:  samrisamrawit30@gmail.com
 - 💬 Telegram: @Sam211622
 - 🌐 Portfolio: https://sambee-coding.github.io/samri_portfolio/
+-  X Twitter: https://x.com/Sambee1921
 
 </p>
 
