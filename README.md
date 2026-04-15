@@ -33,9 +33,9 @@ Building calm, creative, and useful digital experiences ✨
 
 🐝 Here are some things I’ve built:
 
-- 📌 Smart Dormitory Management System  
-- 📌 Goal Tracking Web App  
-- 📌 Sambee Digital Product Store (in progress)  
+- 📌 Study Session Manager
+- 📌 The best vocab 
+- 📌 SmartHire-AI(my first ever hackathon that enter in top 10)
 - 📌 UI/UX Design Practice Projects  
 
 ---
