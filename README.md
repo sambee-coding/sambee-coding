@@ -1,7 +1,7 @@
 # Samrawit
 <!-- SAMBEE HEADER -->
 <h1 align="center">🐝 Sambee</h1>
-<h3 align="center">Fullstack developer | UI/UX Explorer | Digital Creator</h3>
+<h3 align="center">Fullstack developer | UI/UX Engineer| Digital Creator</h3>
 
 <p align="center">
 Building calm, creative, and useful digital experiences ✨
