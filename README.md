@@ -33,7 +33,8 @@ Building calm, creative, and useful digital experiences ✨
 ## 🚀 Featured Projects
 
 🐝 Here are some things I’ve built:
-
+- 📌Moodify
+- 📌MezmurFlow
 - 📌 Study Session Manager
 - 📌 The best vocab 
 - 📌 SmartHire-AI(my first ever hackathon that enter in top 10)
