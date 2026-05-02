@@ -24,7 +24,7 @@ Building calm, creative, and useful digital experiences ✨
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb,figma,git,github,vscode,node.js,express.js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb,figma,git,github,vscode,Node.js,Express.js" />
 
 </p>
 
