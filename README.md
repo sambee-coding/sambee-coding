@@ -49,8 +49,7 @@ Building calm, creative, and useful digital experiences ✨
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sambee-coding&show_icons=true&theme=tokyonight" />
+<img src="https://github-profile-trophy.vercel.app/?username=sambee-coding&theme=tokyonight" />
 
 </p>
 
