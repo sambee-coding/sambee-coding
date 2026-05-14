@@ -4,14 +4,14 @@
 </p>
 
 <h3 align="center">
-  🌱 Building • Learning • Creating
+  Building • Learning • Creating
 </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Fullstack+Developer;UI%2FUX+Engineer;Digital+Creator;Building+Projects+Everyday;Sharing+the+Journey+Publicly" />
 </p>
 <p align="center">
-Building calm, creative, and useful digital experiences ✨
+Building calm, creative, and useful digital experiences 
 </p>
 
 ---
@@ -37,7 +37,7 @@ Building calm, creative, and useful digital experiences ✨
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 🐝 Here are some things I’ve built:
 - 📌Moodify
