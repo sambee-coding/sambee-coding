@@ -1,8 +1,15 @@
-# Samrawit
-<!-- SAMBEE HEADER -->
-<h1 align="center">🐝 Sambee</h1>
-<h3 align="center">Fullstack developer | UI/UX Engineer| Digital Creator</h3>
+#Samrawit
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=180&section=header&text=Sambee&fontSize=40&fontColor=fff"/>
+</p>
 
+<h3 align="center">
+  🌱 Building • Learning • Creating
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7C948&center=true&vCenter=true&width=700&lines=Fullstack+Developer;UI%2FUX+Engineer;Digital+Creator;Building+Projects+Everyday;Sharing+the+Journey+Publicly" />
+</p>
 <p align="center">
 Building calm, creative, and useful digital experiences ✨
 </p>
