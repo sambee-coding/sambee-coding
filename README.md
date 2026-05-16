@@ -105,6 +105,8 @@
 
 - 💬 Telegram: @Sam211622
 
+- My Telegram channel: @Sambecoding
+
 - 🌐 Portfolio: https://sambee-coding.github.io/samri_portfolio/
 
 -  X Twitter: https://x.com/Sambee1921
