@@ -1,4 +1,4 @@
-#Samrawit
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=180&section=header&text=Sambee&fontSize=40&fontColor=fff"/>
 </p>
