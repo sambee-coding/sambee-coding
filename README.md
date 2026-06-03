@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=160&section=header&text=Sambee&fontSize=40&fontColor=fff"/>
 </p>
-<h3 align="center">Sambee</h3>
+
 <h3 align="center">Samrawit Bitew Fullstack developer & CS Student</h3>
 
 <p align="center">
