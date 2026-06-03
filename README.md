@@ -35,8 +35,8 @@ focused on calm, creative, and useful digital experiences.
 | Project | Description |
 |---|---|
 | SmartHire-AI | AI-powered hiring tool — Top 10 at first hackathon |
-| Moodify | Mood-based digital experience |
-| MezmurFlow | Music-focused web app |
+| Moodify | Mood-based digital experience |  Music-focused web app
+| MezmurFlow | Spiritual oriented MERN web application |
 | AdLink Ethiopia | Digital advertising platform |
 | TeleGrowth | Telegram growth tool |
 | Half-Life Interactive Platform | Educational interactive platform |
