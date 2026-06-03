@@ -13,8 +13,8 @@
 ## About Me
 
 I'm Samrawit, a Computer Science student at Bahir Dar University building under the brand **Sambee** 
-focused on 
-calm, creative, and useful digital experiences and solving problems that i found around me with the skill i have .
+focused on calm, creative,  useful digital experiences and solving problems that 
+i found around me with the skill i have .
 
 - FullStack Developer
 - UI/UX Design learner
