@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=160&section=header&text=Sambee&fontSize=40&fontColor=fff"/>
 </p>
 
-<h3 align="center">Samrawit Bitew Fullstack developer & CS Student</h3>
+<h3 align="center">Samrawit Bitew | Fullstack developer  | CS Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI%2FUX+Engineer;Digital+Creator;Building+Projects+Everyday" />
