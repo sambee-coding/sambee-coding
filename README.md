@@ -14,10 +14,10 @@
 
 I'm Samrawit, a Computer Science student at Bahir Dar University building under the brand **Sambee** — focused on calm, creative, and useful digital experiences.
 
-- Frontend Developer (React + JavaScript)
+-FullStack Developer
 - UI/UX Design learner
 - Growing a freelance and content creation journey
-- Currently learning backend development to become a full-stack software engineer
+- Currently learning AI-Automation
 
 ---
 
