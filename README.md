@@ -13,7 +13,7 @@
  <a href="https://sambee-coding.github.io/samri_portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-F7C948?style=flat-square&logo=github&logoColor=1a1a1a" />
 </a>
- 
+  &nbsp;
   <a href="https://www.linkedin.com/in/samrawit-bitew-4896b7364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <a href="https://x.com/Sambee1921"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
