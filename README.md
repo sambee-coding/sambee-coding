@@ -27,7 +27,7 @@
 
 ## About
 
-I'm Samrawit — a CS student and fullstack developer building under the **Sambee** brand. I focus on calm, creative, and useful digital experiences, and I build solutions for problems I find around me using the skills I have.
+I'm Samrawit : a CS student and fullstack developer building under the **Sambee** brand. I focus on calm, creative, and useful digital experiences, and I build solutions for problems I find around me using the skills I have.
 
 - 🛠 &nbsp;Fullstack Developer (MERN Stack)
 - 🎨 &nbsp;UI/UX Design learner
@@ -83,8 +83,10 @@ I'm Samrawit — a CS student and fullstack developer building under the **Sambe
 - Building the **Sambee** brand — projects, content, and community
 - Developing AI-native, LLM-integrated applications
 - Deepening JavaScript, React, and Three.js skills
+- **Node.js / Express** — REST API development, middleware, authentication
 - Learning UI/UX design systems and design engineering
 - Freelancing and creating content on TikTok and Instagram
+  
 
 ---
 
