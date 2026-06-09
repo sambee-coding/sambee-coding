@@ -1,32 +1,43 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=160&section=header&text=Sambee&fontSize=40&fontColor=fff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=160&section=header&text=Sambee&fontSize=44&fontColor=1a1a1a&fontAlignY=38"/>
 </p>
 
-<h3 align="center">Samrawit Bitew | Fullstack developer  | CS Student</h3>
+<h2 align="center">Samrawit Bitew</h2>
+<p align="center">Fullstack Developer &nbsp;·&nbsp; CS Student @ Bahir Dar University &nbsp;·&nbsp; Builder</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=Fullstack+Developer;UI%2FUX+Engineer;Digital+Creator;Building+Projects+Everyday" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7C948&center=true&vCenter=true&width=560&lines=Fullstack+Developer;UI%2FUX+Engineer;Digital+Creator;Building+Projects+Everyday" />
+</p>
+
+<p align="center">
+  <a href="https://sambee-coding.github.io/samri_portfolio/"><img src="https://img.shields.io/badge/Portfolio-F7C948?style=flat-square&logoColor=1a1a1a&label=🌐"/></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/samrawit-bitew-4896b7364/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://x.com/Sambee1921"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://t.me/Sambecoding"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+  &nbsp;
+  <a href="mailto:samrisamrawit30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I'm Samrawit, a Computer Science student at Bahir Dar University building under the brand **Sambee** 
-focused on calm, creative,  useful digital experiences and solving problems that 
-i found around me with the skill i have .
+I'm Samrawit — a CS student and fullstack developer building under the **Sambee** brand. I focus on calm, creative, and useful digital experiences, and I build solutions for problems I find around me using the skills I have.
 
-- FullStack Developer
-- UI/UX Design learner
-- Growing a freelance and content creation journey
-- Currently learning AI-Automation
+- 🛠 &nbsp;Fullstack Developer (MERN Stack)
+- 🎨 &nbsp;UI/UX Design learner
+- 📡 &nbsp;Content creator & Telegram tech channel operator
+- 🤖 &nbsp;Currently exploring AI-powered development
 
 ---
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mysql,mongodb,figma,git,github,vscode,nodejs,express,python" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,figma,git,github,vscode" />
 </p>
 
 ---
@@ -35,49 +46,49 @@ i found around me with the skill i have .
 
 | Project | Description |
 |---|---|
-| SmartHire-AI | AI-powered hiring tool — Top 10 at first hackathon |
-| Moodify | Mood-based digital experience |  Music-focused web app
-| MezmurFlow | Spiritual oriented MERN web application |
-| AdLink Ethiopia | Digital advertising platform |
-| TeleGrowth | Telegram growth tool |
-| Half-Life Interactive Platform | Educational interactive platform |
-| CreatorPath | Creator journey tracker |
-| Study Session Manager | Productivity tool for students |
-| The Best Vocab | Vocabulary learning app |
-| UI/UX Design Practice Projects | Design system explorations |
+| **SmartHire-AI** | AI-powered hiring tool — Top 10 at first hackathon |
+| **HiveClean** | Windows desktop file cleaner (Electron + React + Tailwind) |
+| **WriteHive** | Writing practice platform — AI coaches, not replaces |
+| **MezmurFlow** | Spiritual MERN web app serving the Ethiopian Orthodox community |
+| **AdLink Ethiopia** | Digital advertising platform for the Ethiopian market |
+| **Half-Life Interactive Platform** | Educational interactive learning environment |
+| **Moodify** | Mood-based music experience web app |
+| **TeleGrowth** | Telegram community growth tool |
+| **CreatorPath** | Creator journey tracker |
+| **Study Session Manager** | Productivity tool for students |
+| **The Best Vocab** | Vocabulary learning app |
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sambee-coding&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sambee-coding&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sambee-coding&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sambee-coding&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sambee-coding&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sambee-coding&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## Current Focus
 
-- Building the **Sambee** digital brand
-- Developing AI-powered projects
-- Strengthening JavaScript and React skills
-- Learning UI/UX design systems
-- Creating content on TikTok and Instagram
-- Preparing for freelancing on Upwork and Fiverr
+- Building the **Sambee** brand — projects, content, and community
+- Developing AI-native, LLM-integrated applications
+- Deepening JavaScript, React, and Three.js skills
+- Learning UI/UX design systems and design engineering
+- Freelancing and creating content on TikTok and Instagram
 
 ---
 
 ## Mission
 
-> "To build calm, creative, and useful digital systems that help people grow."
+> *"Build calm, creative, and useful digital systems that help people grow."*
 
 ---
 
@@ -85,16 +96,18 @@ i found around me with the skill i have .
 
 | Platform | Link |
 |---|---|
-| Portfolio | [sambee-coding.github.io/samri_portfolio](https://sambee-coding.github.io/samri_portfolio/) |
-| LinkedIn | [samrawit-bitew](https://www.linkedin.com/in/samrawit-bitew-4896b7364/) |
-| Email | samrisamrawit30@gmail.com |
-| X / Twitter | [@Sambee1921](https://x.com/Sambee1921) |
-| Telegram | [@Sam211622](https://t.me/Sam211622) |
-| Telegram Channel | [@Sambecoding](https://t.me/Sambecoding) |
+| 🌐 Portfolio | [sambee-coding.github.io/samri_portfolio](https://sambee-coding.github.io/samri_portfolio/) |
+| 💼 LinkedIn | [samrawit-bitew](https://www.linkedin.com/in/samrawit-bitew-4896b7364/) |
+| ✉️ Email | samrisamrawit30@gmail.com |
+| 🐦 X / Twitter | [@Sambee1921](https://x.com/Sambee1921) |
+| 📩 Telegram | [@Sam211622](https://t.me/Sam211622) |
+| 📢 Telegram Channel | [@Sambecoding](https://t.me/Sambecoding) |
 
 ---
 
-<p align="center">Built with intention under the Sambee brand.</p>
+<p align="center">
+  <sub>Built with intention · Sambee brand</sub>
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=F7C948&height=100&section=footer"/>
