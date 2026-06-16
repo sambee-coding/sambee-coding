@@ -48,7 +48,7 @@ I'm Samrawit : a CS student and fullstack developer building under the **Sambee*
 
 | Project | Description |
 |---|---|
-| **SmartHire-AI** | AI-powered hiring tool — Top 10 at first hackathon |
+| **SmartHire-AI** | AI-powered hiring tool Top 10 at first hackathon |
 | **HiveClean** | Windows desktop file cleaner (Electron + React + Tailwind) |
 | **WriteHive** | Writing practice platform — AI coaches, not replaces |
 | **MezmurFlow** | Spiritual MERN web app serving the Ethiopian Orthodox community |
