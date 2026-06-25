@@ -105,7 +105,7 @@ I'm Samrawit : a CS student and fullstack developer building under the **Sambee*
 | ✉️ Email | samrisamrawit30@gmail.com |
 | 🐦 X / Twitter | [@Sambee1921](https://x.com/Sambee1921) |
 | 📩 Telegram | [@Sam211622](https://t.me/Sam211622) |
-| 📢 Telegram Channel | [@Sambecoding](https://t.me/Sambecoding) |
+| 📢 Telegram Channel | [@Sambecoding](https://t.me/Sambeecoding) |
 
 ---
 
