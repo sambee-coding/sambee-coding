@@ -39,7 +39,7 @@ I'm Samrawit : a CS student and fullstack developer building under the **Sambee*
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,python,figma,git,github,vscode,electron" />
 </p>
 
 ---
