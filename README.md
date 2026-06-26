@@ -18,7 +18,7 @@
   &nbsp;
   <a href="https://x.com/Sambee1921"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
   &nbsp;
-  <a href="https://t.me/Sambecoding"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/Sambeecoding"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/></a>
   &nbsp;
   <a href="mailto:samrisamrawit30@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
