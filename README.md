@@ -80,7 +80,7 @@ I'm Samrawit : a CS student and fullstack developer building under the **Sambee*
 - Deepening JavaScript, React, and Three.js skills
 - **Node.js / Express** — REST API development, middleware, authentication
 - Learning UI/UX design systems and design engineering
-- Freelancing and creating content on TikTok and Instagram
+
   
 
 ---
