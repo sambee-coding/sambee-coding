@@ -50,7 +50,7 @@ I'm Samrawit : a CS student and fullstack developer building under the **Sambee*
 |---|---|
 | **SmartHire-AI** | AI-powered hiring tool Top 10 at first hackathon |
 | **MezmurFlow** | Spiritual MERN web app serving the Ethiopian Orthodox community |
-| **Half-Life Interactive Platform** | Educational interactive learning environment |
+| **Half-Life Interactive Platform** |  interactive platform for storing the memory  |
 | **Moodify** | Mood-based music experience web app |
 | **Study Session Manager** | Productivity tool for students |
 | **The Best Vocab** | Vocabulary learning app |
