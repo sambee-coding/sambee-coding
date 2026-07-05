@@ -24,11 +24,11 @@
 
 ## 🐝 About Me
 
-I'm a **Fullstack Developer** and third-year Computer Science student who builds real, shipped products — not just tutorial projects. I work primarily in the **MERN stack** plus **Electron** for desktop apps, and I treat every project as a public build log: progress, decisions, and lessons go straight to Telegram, X, and LinkedIn as they happen.
+I'm a **Fullstack Developer** and third-year Computer Science student who builds real, shipped products  not just tutorial projects. I work primarily in the **MERN stack** plus **Electron** for desktop apps, and I treat every project as a public build log: progress, decisions, and lessons go straight to Telegram, X, and LinkedIn as they happen.
 
-I'm intentional about *how* I learn — I use a question-first, Socratic approach when picking up new concepts instead of defaulting to AI-generated code, because I'd rather deeply understand a system than just ship it. That discipline is what let me take **HiveClean** from architecture decisions to a packaged, installable Windows app.
+I'm intentional about *how* I learn I use a question-first, Socratic approach when picking up new concepts instead of defaulting to AI-generated code, because I'd rather deeply understand a system than just ship it. That discipline is what let me take **HiveClean** from architecture decisions to a packaged, installable Windows app.
 
-Right now I'm running three tracks in parallel: freelance client delivery, my own product line under the **Bee Ecosystem** brand 🐝, and a growing developer-education presence for students following the same path.
+Right now I'm running three tracks in parallel: freelance client delivery, my own product line under the Sambee brand 🐝, and a growing developer-education presence for students following the same path.
 
 <br/>
 
@@ -50,9 +50,9 @@ Right now I'm running three tracks in parallel: freelance client delivery, my ow
 
 ## 🐝 What I'm Building Right Now
 
-- 🧹 **HiveClean** — architected, built, and shipped a Windows desktop app end-to-end: IPC bridge design, async SHA-256 duplicate detection, safe delete via the OS trash, and full `.exe` packaging — released as v1.0.0 and cross-posted across three platforms
-- 💼 **Web Design Business** — sourcing local Bahir Dar businesses, building real cold-outreach demo sites, and closing clients with a bilingual (Amharic/English) pitch process, pricing tiers, and a formal contract
-- 📚 **Dev Education** — running a Telegram channel that teaches fellow students how to build real software, not just follow tutorials
+- 🧹 **HiveClean** : architected, built, and shipped a Windows desktop app end-to-end: IPC bridge design, async SHA-256 duplicate detection, safe delete via the OS trash, and full `.exe` packaging  released as v1.0.0 and cross-posted across three platforms
+- 💼 **Web Design Business** : sourcing local Bahir Dar businesses, building real cold-outreach demo sites, and closing clients with a bilingual (Amharic/English) pitch process, pricing tiers, and a formal contract
+- 📚 **Dev Education** : running a Telegram channel that teaches fellow students how to build real software, not just follow tutorials
 - 🔧 Continuously sharpening Node.js/Express and REST API architecture skills
 
 <br/>
@@ -61,9 +61,9 @@ Right now I'm running three tracks in parallel: freelance client delivery, my ow
 
 | Project | What It Demonstrates |
 |---|---|
-| 🧹 **HiveClean** | Full desktop app lifecycle — Electron + React + Vite + Tailwind, Supabase auth, safe delete, duplicate detection, shipped and packaged as a real `.exe` |
-| ✝️ **MezmurFlow** | Live production web app (Ethiopian Orthodox spiritual platform) — deployed on Vercel, integrates external APIs for daily reflections |
-| 🎯 **SmartHire-AI** | AI-powered hiring tool — placed **Top 10** at my first hackathon |
+| 🧹 **HiveClean** | Full desktop app lifecycle : Electron + React + Vite + Tailwind, Supabase auth, safe delete, duplicate detection, shipped and packaged as a real `.exe` |
+|✝️**MezmurFlow** | Live production web app (Ethiopian Orthodox spiritual platform) : deployed on Vercel, integrates external APIs for daily reflections |
+| 🎯 **SmartHire-AI** | AI-powered hiring tool  placed **Top 10** at my first hackathon |
 | 🎵 **Moodify** | Mood-driven music discovery web app |
 
 <br/>
@@ -72,9 +72,9 @@ Right now I'm running three tracks in parallel: freelance client delivery, my ow
 
 | Stage | Milestone |
 |---|---|
-| 🌱 **Foundations** | Learned MERN fundamentals by building — not just tutorials — across SmartHire-AI, Moodify, and MezmurFlow |
-| 🍯 **2026 — Level Up** | Shipped a complete, packaged desktop application (HiveClean v1.0.0) *and* launched a real client-facing business in the same stretch |
-| 🐝 **Now** | Scaling freelance delivery and building toward AI-native, production-grade full-stack products |
+| 🌱**Foundations** | Learned MERN fundamentals by building  not just tutorials — across SmartHire-AI, Moodify, and MezmurFlow |
+| 🍯**2026 — Level Up** | Shipped a complete, packaged desktop application (HiveClean v1.0.0) *and* launched a real client-facing business in the same stretch |
+| 🐝**Now** | Scaling freelance delivery and building toward AI-native, production-grade full-stack products |
 
 <br/>
 
