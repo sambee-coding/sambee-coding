@@ -1,6 +1,6 @@
 # Fullstack Developer | Samrawit Bitew (Sambee)
 
-Building calm, creative, and useful digital products —> from desktop utilities to full-stack marketplaces :under the **Sambee** brand.
+Building calm, creative, and useful digital products —> from desktop utilities to full-stack marketplaces : under the **Sambee** brand.
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=Fullstack+Developer+(MERN);Building+in+Public;CS+Student+%40+Bahir+Dar+University;Shipping+Real+Projects" />
