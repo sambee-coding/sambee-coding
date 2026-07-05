@@ -45,11 +45,10 @@ I'm currently balancing freelance client work, a personal SaaS-style product lin
 | Project | Description |
 |---|---|
 | **HiveClean** | Windows desktop file cleanup app — Electron, React, Vite, Tailwind, Supabase auth, safe delete, duplicate detection |
-| **AdLink Ethiopia** | Creator–business marketplace with a full Prisma/Postgres/Node.js backend |
 | **MezmurFlow** | Ethiopian Orthodox spiritual web app — date-based reflections, Mezmurs, Sinkessar stories |
 | **SmartHire-AI** | AI-powered hiring tool — Top 10 at first hackathon |
 | **Moodify** | Mood-based music discovery web app |
-| **WriteHive** | Writing practice platform with an AI "hint mode" coaching engine |
+
 
 ---
 
