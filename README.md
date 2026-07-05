@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=honeycomb&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sambee%20%F0%9F%90%9D&descAlignY=55&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sambee%20%F0%9F%90%9D&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -109,5 +109,5 @@ Right now I'm running three tracks in parallel: freelance client delivery, my ow
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=honeycomb&color=0:3E2723,50:B8860B,100:F7C948&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=100&section=footer"/>
 </p>
