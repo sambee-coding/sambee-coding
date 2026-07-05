@@ -56,8 +56,8 @@ I'm currently balancing freelance client work, a personal SaaS-style product lin
 
 | Year | Focus | Progress |
 |---|---|---|
-| **2025** | Started building real projects (SmartHire-AI, Moodify, MezmurFlow) while learning MERN fundamentals | Foundational |
-| **2026** | Shipped HiveClean v1.0.0, scaffolded AdLink Ethiopia backend, launched a local web design business | Professional level |
+| **2025** | Started building real projects while learning MERN fundamentals | Foundational |
+| **2026** | Shipped HiveClean v1.0.0, launched a local web design business | Professional level |
 | **Next** | Scaling toward full-stack freelance income and AI-native product development | In progress |
 
 ---
