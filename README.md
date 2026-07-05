@@ -34,7 +34,6 @@ I'm currently balancing freelance client work, a personal SaaS-style product lin
 ## Current Focus
 
 - Building **HiveClean** — a Windows desktop file cleanup app (Electron + React + Supabase)
-- Developing **AdLink Ethiopia** — a creator–business marketplace with a Node.js/Prisma/Postgres backend
 - Running a local web design business, pitching demo sites to Bahir Dar businesses
 - Deepening Node.js/Express and REST API skills
 - Growing a dev-learning Telegram channel for peers and students
