@@ -1,6 +1,6 @@
 # Fullstack Developer | Samrawit Bitew (Sambee)
 
-Building calm, creative, and useful digital products — from desktop utilities to full-stack marketplaces — under the **Sambee** brand.
+Building calm, creative, and useful digital products —> from desktop utilities to full-stack marketplaces :under the **Sambee** brand.
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=600&lines=Fullstack+Developer+(MERN);Building+in+Public;CS+Student+%40+Bahir+Dar+University;Shipping+Real+Projects" />
@@ -12,7 +12,7 @@ Building calm, creative, and useful digital products — from desktop utilities 
 
 I'm a **Fullstack Developer** and third-year CS student focused on turning real problems into shipped products.
 
-My work centers on the **MERN stack**, with a strong build-in-public habit — documenting progress on Telegram, X, and LinkedIn as I go. I care about writing code I actually understand, which is why I lean on a Socratic, question-first approach when learning something new instead of just copy-pasting AI output.
+My work centers on the **MERN stack**, with a strong build-in-public habit - documenting progress on Telegram, X, and LinkedIn as I go. I care about writing code I actually understand, which is why I lean on a Socratic, question-first approach when learning something new instead of just copy-pasting AI output.
 
 I'm currently balancing freelance client work, a personal SaaS-style product line ("Bee Ecosystem"), and deepening my backend/API skills.
 
