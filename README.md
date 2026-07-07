@@ -28,7 +28,7 @@ I'm a **Fullstack Developer** and third-year Computer Science student who builds
 
 I'm intentional about *how* I learn I use a question-first, Socratic approach when picking up new concepts instead of defaulting to AI-generated code, because I'd rather deeply understand a system than just ship it. That discipline is what let me take **HiveClean** from architecture decisions to a packaged, installable Windows app.
 
-Right now I'm running three tracks in parallel: freelance client delivery, my own product line under the Sambee brand 🐝, and a growing developer-education presence for students following the same path.
+Right now I'm running three tracks in parallel: freelance client delivery, my own product(projects) which i thought worth putting my time on line under the Sambee brand 🐝, and a growing developer-education presence for students following the same path. using my channel on Telegram here  <a href="https://t.me/Sambeecoding">
 
 <br/>
 
