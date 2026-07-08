@@ -24,11 +24,13 @@
 
 ## 🐝 About Me
 
-I'm a **Fullstack Developer** and third-year Computer Science student who builds real, shipped products  not just tutorial projects. I work primarily in the **MERN stack** plus **Electron** for desktop apps, and I treat every project as a public build log: progress, decisions, and lessons go straight to Telegram, X, and LinkedIn as they happen.
-
-I'm intentional about *how* I learn I use a question-first, Socratic approach when picking up new concepts instead of defaulting to AI-generated code, because I'd rather deeply understand a system than just ship it. That discipline is what let me take **HiveClean** from architecture decisions to a packaged, installable Windows app.
-
-Right now I'm running three tracks in parallel: freelance client delivery, my own product(projects) which i thought worth putting my time on line under the Sambee brand 🐝, and a growing developer-education presence for students following the same path. using my channel on Telegram here   <a href="https://t.me/Sambeecoding"><img src="https://img.shields.io/badge/Telegram-B8860B?style=for-the-badge&logo=telegram&logoColor=FFF8E1"/></a>
+Hey, I'm samri 🐝
+Fullstack dev & CS student. I ship real products, not tutorials.
+Stack: MERN · Electron
+Approach: Socratic learning — understand first, code second
+Built: MezmurFlow, HiveClean Under sambee brand
+Buildig projects that solve real problems and make life eas
+I build in public — follow the process on Telegram, X & LinkedIn.
 
 <br/>
 
