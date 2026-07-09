@@ -91,7 +91,7 @@ I build in public — follow the process on Telegram, X & LinkedIn.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sambee-coding&theme=gruvbox&hide_border=true&stroke=F7C948&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sambee-coding&theme=gruvbox&hide_border=true&stroke=F7C948&ring=F7C948&fire=F7C948&currStreakLabel=F7C948
 </p>
 
 <br/>
