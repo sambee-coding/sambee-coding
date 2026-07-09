@@ -24,13 +24,13 @@
 
 ## 🐝 About Me
 
-- Hey, I'm samri 🐝 — fullstack dev & CS student
+- Hey, I'm samri  : fullstack dev & CS student
 - I ship real products, not tutorials
 - **Stack:** MERN · Electron
-- **Approach:** Socratic learning — understand first, code second
-- **Built:** MezmurFlow, HiveClean — under the **sambee** brand
+- **Approach:** Socratic learning : understand first, code second
+- **Built:** MezmurFlow, HiveClean : under the **sambee** brand
 - Building projects that solve real problems and make life easier
-- I build in public — follow the process on Telegram, X & LinkedIn
+- I build in public : follow the process on Telegram, X & LinkedIn
 
 <br/>
 
