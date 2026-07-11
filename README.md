@@ -75,7 +75,7 @@
 | Stage | Milestone |
 |---|---|
 | 🌱**Foundations** | Learned MERN fundamentals by building  not just tutorials  across SmartHire-AI, Moodify, and MezmurFlow |
-| 🍯**2026 — Level Up** | Shipped a complete, packaged desktop application (HiveClean v1.0.0) *and* launched a real client-facing business in the same stretch |
+| 🍯**2026 —: Level Up** | Shipped a complete, packaged desktop application (HiveClean v1.0.0) *and* launched a real client-facing business in the same stretch |
 | 🐝**Now** | Scaling freelance delivery and building toward AI-native, production-grade full-stack products |
 
 <br/>
