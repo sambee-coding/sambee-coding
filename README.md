@@ -31,7 +31,7 @@
 - **Built:** MezmurFlow, HiveClean : under the **sambee** brand
 - Building projects that solve real problems and make life easier
 - I build in public : follow the process on Telegram, X & LinkedIn
-- Currently working on my Own Product and teaching myself to be better problem solver and good software enginner
+- Currently working on my Own Product and teaching myself to be better problem solver 
 
 <br/>
 
