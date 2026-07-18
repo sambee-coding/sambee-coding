@@ -28,7 +28,7 @@
 - I ship real products, not tutorials
 - **Stack:** MERN · Electron
 - **Approach:** Socratic learning : understand first, code second
-- **Built:** MezmurFlow, HiveClean : under the **sambee** brand
+- **Built:** MezmurFlow, HiveClean,Moodify : under the **sambee** brand
 - Building projects that solve real problems and make life easier
 - I build in public : follow the process on Telegram, X & LinkedIn
 - Currently working on my Own Product and teaching myself to be a better problem solver and a software engineer.
