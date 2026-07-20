@@ -54,7 +54,7 @@
 ## 🐝 What I'm Building Right Now
 
 - 🧹 **HiveClean** : architected, built, and shipped a Windows desktop app end-to-end: IPC bridge design, async SHA-256 duplicate detection, safe delete via the OS trash, and full `.exe` packaging  released as v1.0.0 and cross-posted across three platforms
-- 💼 **Web Design Business** : 
+- 💼 **Web Design Business** 
 - 📚 **Telegram content** : sharing my journey in tech using my telegram channel.
 - 🔧 Continuously sharpening Node.js/Express and REST API architecture skills
 - leveing AI and LLM's to get ahead of the current technology and solve problems around my enviroment
