@@ -54,8 +54,8 @@
 ## 🐝 What I'm Building Right Now
 
 - 🧹 **HiveClean** : architected, built, and shipped a Windows desktop app end-to-end: IPC bridge design, async SHA-256 duplicate detection, safe delete via the OS trash, and full `.exe` packaging  released as v1.0.0 and cross-posted across three platforms
-- 💼 **Web Design Business** : sourcing local Bahir Dar businesses, building real cold-outreach demo sites, and closing clients with a bilingual (Amharic/English) pitch process, pricing tiers, and a formal contract
-- 📚 **Dev Education** : running a Telegram channel that teaches fellow students how to build real software, not just follow tutorials
+- 💼 **Web Design Business** : 
+- 📚 **Telegram content** : sharing my journey in tech using my telegram channel.
 - 🔧 Continuously sharpening Node.js/Express and REST API architecture skills
 - leveing AI and LLM's to get ahead of the current technology and solve problems around my enviroment
 <br/>
