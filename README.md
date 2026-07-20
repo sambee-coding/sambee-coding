@@ -57,7 +57,7 @@
 - 💼 **Web Design Business** 
 - 📚 **Telegram content** : sharing my journey in tech using my telegram channel.
 - 🔧 Continuously sharpening Node.js/Express and REST API architecture skills
-- leveing AI and LLM's to get ahead of the current technology and solve problems around my enviroment
+- leveraging AI and LLM's to get ahead of the current technology and solve problems around my enviroment
 <br/>
 
 ## 🌟 Featured Projects
