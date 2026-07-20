@@ -25,8 +25,7 @@
 ## 🐝 About Me
 
 - Hey, I'm samri  : fullstack dev & CS student
-- I ship real products, not tutorials
-- **Stack:** MERN · Electron
+- **Stack:** MERN · React ·Node.js ·Express.js · Electron ·Mongodb 
 - **Approach:** Socratic learning : understand first, code second
 - **Built:** MezmurFlow, HiveClean,Moodify : under the **sambee** brand
 - Building projects that solve real problems and make life easier
