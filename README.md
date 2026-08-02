@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, focused on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js) and desktop application development with **Electron**. I prioritize understanding how and why something works, rather than relying on copy-paste solutions.
+I'm a Computer Science student at Bahir Dar Institute of Technology, focused on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js) and desktop application development with **Electron**. I prioritize understanding how and why something works, rather than relying on copy-paste solutions.
 
 I build in public and document my process for a developer community on Telegram.
 
