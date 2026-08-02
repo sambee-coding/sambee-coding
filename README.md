@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sambee%20%F0%9F%90%9D&descAlignY=55&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sambee&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
@@ -15,31 +15,30 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sambee-coding&style=for-the-badge&color=B8860B&label=HIVE+VISITS" />
+  <img src="https://komarev.com/ghpvc/?username=sambee-coding&style=for-the-badge&color=B8860B&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">🍯 ────────────────────────── 🐝 ────────────────────────── 🍯</p>
+<p align="center">──────────────────────────────────────────────</p>
 
 <br/>
 
 ## About Me
 
-I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, focused on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js), and I build desktop apps with **Electron**. I prefer understanding *why* something works over copy-pasting a fix.
+I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, focused on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js) and desktop application development with **Electron**. I prioritize understanding how and why something works, rather than relying on copy-paste solutions.
 
-Outside coursework, I run a small web-design practice building sites and digital-presence packages for local businesses in Bahir Dar and Addis Ababa, and I write about the process on my Telegram channel.
+I build in public and document my process for a developer community on Telegram.
 
 <br/>
 
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,flutter,electron,figma,git,github,vscode,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,electron,figma,git,github,vscode,python&theme=dark" />
 </p>
 
 | Layer | Tools |
 |---|---|
 | **Frontend** | React, Vite, Tailwind CSS, JavaScript |
-| **Mobile** | Flutter |
 | **Backend** | Node.js, Express, REST APIs |
 | **Data** | MongoDB, MySQL, Supabase (PostgreSQL + Prisma) |
 | **Desktop** | Electron |
@@ -49,10 +48,9 @@ Outside coursework, I run a small web-design practice building sites and digital
 
 ## Currently
 
-- 💼 Building a **salon booking platform** for the Ethiopian market — complete backend, React frontend in progress, with Telegram/SMS owner notifications
-- 🎓 Pursuing remote, mentored open-source internships (Outreachy, MLH Fellowship, LFX, GSoC) alongside paid local internship opportunities
-- 🌐 Growing a web-design business delivering sites and digital-presence packages to small businesses
-- 📚 Sharing the process — wins, mistakes, and lessons — with my Telegram community
+- Building a salon booking platform for the Ethiopian market, with a complete backend and a React frontend in progress
+- Pursuing remote, mentored open-source internships (Outreachy, MLH Fellowship, LFX, GSoC) alongside local internship opportunities
+- Documenting my development process for a growing Telegram community
 
 <br/>
 
@@ -60,10 +58,10 @@ Outside coursework, I run a small web-design practice building sites and digital
 
 | Project | What It Demonstrates |
 |---|---|
-| 🧹 **HiveClean** | End-to-end Windows desktop app: Electron + React + Vite + Tailwind, Supabase auth, async SHA-256 duplicate detection, safe delete via OS trash — packaged and shipped as v1.0.0 |
-| ✝️ **MezmurFlow** | Live production web app (Ethiopian Orthodox spiritual platform) on Vercel, integrating the Groq API and YouTube API for daily reflections |
-| 🎯 **SmartHire-AI** | AI-powered hiring tool — Top 10 finish at my first hackathon |
-| 🎵 **Moodify** | Mood-driven music discovery web app |
+| **HiveClean** | End-to-end Windows desktop application: Electron, React, Vite, and Tailwind, with Supabase authentication, asynchronous SHA-256 duplicate detection, and safe delete via the OS trash — packaged and released as v1.0.0 |
+| **MezmurFlow** | Live production web application (Ethiopian Orthodox spiritual platform) deployed on Vercel, integrating the Groq API and YouTube API for daily reflections |
+| **SmartHire-AI** | AI-powered hiring tool that placed Top 10 at my first hackathon |
+| **Moodify** | Mood-driven music discovery web application |
 
 <br/>
 
@@ -71,13 +69,13 @@ Outside coursework, I run a small web-design practice building sites and digital
 
 | Stage | Milestone |
 |---|---|
-| 🌱 **Foundations** | Learned the MERN stack by building real projects — SmartHire-AI, Moodify, MezmurFlow |
-| 🍯 **Leveling Up** | Shipped a fully packaged desktop application (HiveClean v1.0.0) and launched a client-facing web design business in the same stretch |
-| 🐝 **Now** | Scaling freelance delivery, pursuing mentored internships, and building toward production-grade full-stack products for local markets |
+| **Foundations** | Learned the MERN stack by building real projects — SmartHire-AI, Moodify, and MezmurFlow |
+| **Leveling Up** | Shipped a fully packaged desktop application, HiveClean v1.0.0 |
+| **Now** | Pursuing mentored internships and building toward production-grade full-stack products |
 
 <br/>
 
-## Hive Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sambee-coding&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&title_color=F7C948&icon_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
@@ -104,10 +102,11 @@ Outside coursework, I run a small web-design practice building sites and digital
 </p>
 
 <p align="center">
-  <sub><i>"Build calm, creative, and useful digital systems that help people grow."</i> 🐝 — Sambee</sub>
+  <sub><i>"Build calm, creative, and useful digital systems that help people grow."</i> — Sambee</sub>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=100&section=footer"/>
 </p>
+
 
