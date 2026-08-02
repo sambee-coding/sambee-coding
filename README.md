@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20%2B%20Mobile%20Developer%20%7C%20Sambee%20%F0%9F%90%9D&descAlignY=55&descSize=18&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=200&section=header&text=Samrawit%20Bitew&fontSize=48&fontColor=FFF8E1&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Sambee%20%F0%9F%90%9D&descAlignY=55&descSize=18&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Fullstack+%26+Mobile+Developer+(MERN+%2B+Flutter);I+ship+production+apps%2C+not+just+demos;CS+Student+%40+Bahir+Dar+University;Building+for+the+Ethiopian+market" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Fullstack+Developer+(MERN)+%7C+Electron;I+ship+production+apps%2C+not+just+demos;CS+Student+%40+Bahir+Dar+University;Building+for+the+Ethiopian+market" />
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, working across full-stack web, desktop, and mobile development. My focus is the **MERN stack** (MongoDB, Express, React, Node.js) plus **Flutter** for mobile and **Electron** for desktop — and I prefer understanding *why* something works over copy-pasting a fix.
+I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, focused on full-stack web development with the **MERN stack** (MongoDB, Express, React, Node.js), and I build desktop apps with **Electron**. I prefer understanding *why* something works over copy-pasting a fix.
 
 Outside coursework, I run a small web-design practice building sites and digital-presence packages for local businesses in Bahir Dar and Addis Ababa, and I write about the process on my Telegram channel.
 
@@ -110,3 +110,4 @@ Outside coursework, I run a small web-design practice building sites and digital
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=100&section=footer"/>
 </p>
+
