@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Fullstack+Developer+(MERN)+%7C+Electron;I+ship+production+apps%2C+not+just+demos;CS+Student+%40+Bahir+Dar+University;Building+for+the+Ethiopian+market" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=650&lines=Fullstack+Developer+(MERN)+%7C+Electron;CS+Student+%40+Bahir+Dar+University;Building+for+the+Ethiopian+market" />
 </p>
 
 <p align="center">
@@ -48,8 +48,8 @@ I build in public and document my process for a developer community on Telegram.
 
 ## Currently
 
-- Building a salon booking platform for the Ethiopian market, with a complete backend and a React frontend in progress
-- Pursuing remote, mentored open-source internships (Outreachy, MLH Fellowship, LFX, GSoC) alongside local internship opportunities
+- Strengthening my backend knowledge and system design skills
+- Building my first startup
 - Documenting my development process for a growing Telegram community
 
 <br/>
