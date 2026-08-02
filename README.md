@@ -24,7 +24,7 @@
 
 ## About Me
 
-I'm a Mobile Application Development student at Bahir Dar Institute of Technology, working across full-stack web, desktop, and mobile development. My focus is the **MERN stack** (MongoDB, Express, React, Node.js) plus **Flutter** for mobile and **Electron** for desktop — and I prefer understanding *why* something works over copy-pasting a fix.
+I'm a Computer Science / Software Engineering student at Bahir Dar Institute of Technology, working across full-stack web, desktop, and mobile development. My focus is the **MERN stack** (MongoDB, Express, React, Node.js) plus **Flutter** for mobile and **Electron** for desktop — and I prefer understanding *why* something works over copy-pasting a fix.
 
 Outside coursework, I run a small web-design practice building sites and digital-presence packages for local businesses in Bahir Dar and Addis Ababa, and I write about the process on my Telegram channel.
 
