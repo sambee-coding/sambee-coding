@@ -78,7 +78,7 @@ I build in public and document my process for a developer community on Telegram.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=sambee-coding&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&title_color=F7C948&icon_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sambee-coding&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&hide_rank=true&title_color=F7C948&icon_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
 </p>
 
 <p align="center">
