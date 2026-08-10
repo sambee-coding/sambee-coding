@@ -78,15 +78,17 @@ I build in public and document my process for a developer community on Telegram.
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sambee-coding&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&title_color=F7C948&icon_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sambee-coding&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&title_color=F7C948&icon_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sambee-coding&layout=compact&theme=gruvbox&hide_border=true&title_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sambee-coding&layout=compact&theme=gruvbox&hide_border=true&title_color=F7C948&text_color=FFF8E1&bg_color=1a1a1a" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=sambee-coding&theme=gruvbox&hide_border=true&stroke=F7C948&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sambee-coding&theme=gruvbox&hide_border=true&stroke=F7C948&ring=F7C948&fire=F7C948&currStreakLabel=F7C948" />
+  </a>
 </p>
 
 <br/>
@@ -108,5 +110,3 @@ I build in public and document my process for a developer community on Telegram.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E2723,50:B8860B,100:F7C948&height=100&section=footer"/>
 </p>
-
-
